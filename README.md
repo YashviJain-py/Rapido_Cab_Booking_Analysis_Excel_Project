@@ -1,5 +1,4 @@
 # Rapido_Cab_Booking_Analysis_Excel_Project
-# 🚖 Rapido Cab Booking Analysis Dashboard
 
 ## 📌 Project Overview
 
