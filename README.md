@@ -57,3 +57,10 @@ The dashboard helps in understanding key business insights such as total booking
 The main objective of this project was to practice data cleaning, data transformation, dashboard creation, and business insight generation using Excel.
 
 ---
+
+## 📂 Dataset Source
+
+The dataset used in this project was taken from Kaggle.
+The complete dashboard design, data cleaning, analysis, KPI selection, and visualization were created independently using Excel and Power Query.
+
+---
