@@ -57,7 +57,3 @@ The dashboard helps in understanding key business insights such as total booking
 The main objective of this project was to practice data cleaning, data transformation, dashboard creation, and business insight generation using Excel.
 
 ---
-
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshot here)
